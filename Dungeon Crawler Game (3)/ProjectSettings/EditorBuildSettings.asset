@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: af8882769fd8bf74b91c84f3fc9ee90f
+  - enabled: 1
+    path: Assets/Scenes/CultEscapest.unity
+    guid: 0c8f0e7743feed049895bd150e6d235f
+  m_configObjects: {}
